@@ -33,4 +33,5 @@ Què pretenem amb tot açò?
 |Carlos|Tro|
 |Quique|Sanchez|
 |Luis|Rosello|
+|Carlos|Pajuelo Moreno|
 
