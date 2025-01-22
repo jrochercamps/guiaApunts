@@ -25,8 +25,5 @@ Què pretenem amb tot açò?
 
 |Nombre|Apellidos|
 |------|---------|
-|David|Arroyo|
-|Rufino|Camarena Jiménez|
-|Manuel|Cuevas|
-|Jose P.|Rocher|
-|EDD|DAM|
+|José P.|Rocher|
+
