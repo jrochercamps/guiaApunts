@@ -28,3 +28,11 @@ Què pretenem amb tot açò?
 |------|---------|
 |Jose P.|Rocher|
 |Roberto|Palmi|
+|Ariadna|Bataller|
+|Joan|Saneugenio|
+|Jordi|Patuel Pons|
+|Ivan F.|Frasquet|
+|Angel |Cantero|
+|Noé|Conde|
+|Dayron|Notario|
+|Ezequiel|Menor|
