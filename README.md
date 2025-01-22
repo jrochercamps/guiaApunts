@@ -26,5 +26,5 @@ Què pretenem amb tot açò?
 
 |Nombre|Apellidos|
 |------|---------|
-|Nombre|Apellido|
+|Jose P.|Rocher|
 |Roberto|Palmi|
