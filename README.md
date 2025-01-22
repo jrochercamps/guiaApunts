@@ -27,6 +27,7 @@ Què pretenem amb tot açò?
 |Nombre|Apellidos|
 |------|---------|
 |Jose P.|Rocher|
+|Roberto|Palmi|
 |Ariadna|Bataller|
 |Joan|Saneugenio|
 |Jordi|Patuel Pons|
@@ -35,4 +36,3 @@ Què pretenem amb tot açò?
 |Noé|Conde|
 |Dayron|Notario|
 |Ezequiel|Menor|
-
