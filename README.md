@@ -37,3 +37,4 @@ Què pretenem amb tot açò?
 |Dayron|Notario|
 |Ezequiel|Menor|
 |Marc|Estruch|
+|Fran|Fornet|
