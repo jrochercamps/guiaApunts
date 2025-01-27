@@ -38,3 +38,4 @@ Què pretenem amb tot açò?
 |Ezequiel|Menor|
 |Daw|
 |Juan Carlos|Arango|
+|Fran|Fornet|
