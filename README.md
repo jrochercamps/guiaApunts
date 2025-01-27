@@ -27,6 +27,7 @@ Què pretenem amb tot açò?
 |Nombre|Apellidos|
 |------|---------|
 |Jose P.|Rocher|
+|DAM|
 |Roberto|Palmi|
 |Ariadna|Bataller|
 |Joan|Saneugenio|
@@ -38,4 +39,6 @@ Què pretenem amb tot açò?
 |Ezequiel|Menor|
 |Daw|
 |Juan Carlos|Arango|
+|Rafa|Mompó|
 |Fran|Fornet|
+
