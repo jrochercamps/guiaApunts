@@ -26,6 +26,7 @@ Què pretenem amb tot açò?
 
 |Nombre|Apellidos|
 |------|---------|
+|Ayoub|Ammari|
 |Jose P.|Rocher|
 |Roberto|Palmi|
 |Ariadna|Bataller|
