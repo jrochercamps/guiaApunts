@@ -36,3 +36,4 @@ Què pretenem amb tot açò?
 |Noé|Conde|
 |Dayron|Notario|
 |Ezequiel|Menor|
+|Marc|Estruch|
