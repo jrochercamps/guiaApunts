@@ -36,3 +36,5 @@ Què pretenem amb tot açò?
 |Noé|Conde|
 |Dayron|Notario|
 |Ezequiel|Menor|
+|Daw|
+|Juan Carlos|Arango|
