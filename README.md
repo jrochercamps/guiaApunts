@@ -26,8 +26,8 @@ Què pretenem amb tot açò?
 
 |Nombre|Apellidos|
 |------|---------|
-|Ayoub|Ammari|
 |Jose P.|Rocher|
+|DAM|
 |Roberto|Palmi|
 |Ariadna|Bataller|
 |Joan|Saneugenio|
@@ -37,3 +37,8 @@ Què pretenem amb tot açò?
 |Noé|Conde|
 |Dayron|Notario|
 |Ezequiel|Menor|
+|DAW|
+|Rafa|Mompó|
+|Marc|Estruch|
+|Fran|Fornet|
+|Ayoub|Ammari|
