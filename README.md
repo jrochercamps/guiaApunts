@@ -39,3 +39,5 @@ Què pretenem amb tot açò?
 |Ezequiel|Menor|
 |DAW|
 |Rafa|Mompó|
+|Fran|Fornet|
+
