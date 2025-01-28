@@ -37,7 +37,8 @@ Què pretenem amb tot açò?
 |Noé|Conde|
 |Dayron|Notario|
 |Ezequiel|Menor|
-|DAW|
+|Daw|
+|Juan Carlos|Arango|
 |Rafa|Mompó|
 |Marc|Estruch|
 |Fran|Fornet|
