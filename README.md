@@ -43,3 +43,4 @@ Què pretenem amb tot açò?
 |Marc|Estruch|
 |Fran|Fornet|
 |Ayoub|Ammari|
+|Salva|Martinez|
